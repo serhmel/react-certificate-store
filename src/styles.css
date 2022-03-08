@@ -1,0 +1,74 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.App {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    padding: 50px;
+}
+
+.certificateList {
+    width: 300px;
+    margin-right: 50px;
+    text-align: center;
+}
+
+.certificateList ul {
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+.certificateList li {
+    border: 1px solid #808080;
+    list-style-type: none;
+    padding: 5px;
+    margin: 0;
+    cursor: pointer;
+}
+
+.activeCertificate {
+    background-color: #EFEFEFFF;
+}
+
+.certificateDetails {
+    width: 300px;
+    min-height: 200px;
+    border: 1px solid #808080;
+    padding: 5px;
+    word-break: break-word;
+}
+
+.addCertificateButton {
+    width: 150px;
+    margin: 10px auto;
+}
+
+.addCertificateArea,
+.certificateDetailsArea {
+    text-align: center;
+    width: 300px;
+    height: 200px;
+    border: 1px dashed #808080;
+    padding: 10px;
+    opacity: 0.8;
+    cursor: default;
+}
+
+.certificateDetailsArea {
+    border: 1px solid #000000;
+}
+
+.drop-area {
+    width: 100%;
+    height: 100%;
+}
+
+.addCertificateButton {
+    cursor: pointer;
+    font-size: 15px;
+    padding: 5px;
+}

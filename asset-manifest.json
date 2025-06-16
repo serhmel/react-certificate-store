@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-certificate-store/static/css/main.889d8fd4.css",
+    "main.js": "/react-certificate-store/static/js/main.40c4d0a4.js",
+    "index.html": "/react-certificate-store/index.html",
+    "main.889d8fd4.css.map": "/react-certificate-store/static/css/main.889d8fd4.css.map",
+    "main.40c4d0a4.js.map": "/react-certificate-store/static/js/main.40c4d0a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.889d8fd4.css",
+    "static/js/main.40c4d0a4.js"
+  ]
+}

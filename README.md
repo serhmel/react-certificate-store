@@ -25,8 +25,8 @@ A simple web application for managing and viewing digital certificates directly 
 To run the project locally:
 
 ```bash
-git clone https://github.com/serhmel/certificate-store.git
-cd certificate-store
+git clone https://github.com/serhmel/react-certificate-store.git
+cd react-certificate-store
 npm install
 npm start
 ```
